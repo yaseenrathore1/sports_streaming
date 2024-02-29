@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sportrs_Streaming_platform.props" />
+</Project>
